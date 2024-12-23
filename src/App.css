@@ -1,0 +1,12 @@
+.my-movie-search{
+  outline: none;
+  
+}
+input{
+ outline: none;
+
+}
+input:disabled {
+  background-color: #968f8f; 
+   cursor: not-allowed;          
+}
